@@ -4,10 +4,10 @@
 Tim marketing Skillaju mau tahu channel akuisisi mana yang paling banyak nyumbang siswa, biar budget iklan nggak dibakar ke tempat yang salah.
 
 ## Business Question
-- Mengetahui jumlah siswa per acquisition source.
-- Mengetahui persentase kontribusi setiap channel.
-- Mengetahui jumlah siswa berbayar per channel.
-- Menentukan channel yang layak dikembangkan.
+- Channel mana yang memiliki volume akuisisi siswa terbesar?
+- Persentase kontribusi channel masing-masing?
+- Channel mana yang paling banyak menghasilkan siswa berbayar?
+- Rekomendasi channel mana yang layak digenjot budget iklan?
 
 ## Tools
 - Microsoft Excel
