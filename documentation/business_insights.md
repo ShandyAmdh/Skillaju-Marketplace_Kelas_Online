@@ -28,7 +28,10 @@ Hal ini menunjukkan bahwa Instagram merupakan channel utama dalam menghasilkan v
 Instagram layak dipertahankan dan dioptimalkan sebagai channel utama karena menghasilkan jumlah siswa berbayar terbanyak, yaitu 353 siswa (35,3% dari total paid students). Namun, peningkatan budget sebaiknya juga diarahkan secara bertahap ke TikTok karena memiliki Paid Rate tertinggi sebesar 36,67%, yang menunjukkan potensi konversi berbayar yang relatif lebih baik.
 
 Kesimpulannya dari hasil analisis:
+
 Instagram = paling banyak menghasilkan paid students (353)
+
 TikTok = paid rate tertinggi (36,67%)
+
 Referral = posisi kedua paid rate (35%)
 
